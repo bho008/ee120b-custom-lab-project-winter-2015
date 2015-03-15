@@ -2,3 +2,4 @@
 BACKUP EVERYTHING 
 
 Brian Ho's EE120B Custom Lab Project Winter 2015
+bho008@ucr.edu
